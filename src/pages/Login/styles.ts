@@ -27,12 +27,10 @@ export const styles = StyleSheet.create({
         fontSize: 18,
         marginTop: 40,
         padding: 10,
-        border: 'none',
         borderColor: '#a0a0a0',
         borderBottomWidth: 1,
         marginBottom: 1,
         width: 240,
-        transition: 'linear'
     },
     button: {
         width: 240,

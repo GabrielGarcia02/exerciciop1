@@ -6,7 +6,7 @@ import {
 import { styles } from "./styles";
 import { AntDesign } from '@expo/vector-icons';
 
-export const Balance = ({ saldo, gastos }) => {
+export const Balance = ({ saldo }) => {
     return (
         <View style={styles.container}>
 
