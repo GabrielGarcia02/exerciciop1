@@ -34,5 +34,14 @@ export const styles = StyleSheet.create({
         borderRadius: 100,
         paddingLeft: 1,
         marginBottom: 30
+    },
+    viewIcons: {
+        flexDirection: 'row',
+        marginTop: -8,
+        paddingRight: 12
+    },
+    icon: {
+        paddingLeft: 20,
+        
     }
 })
