@@ -1,5 +1,0 @@
-Header: '#6d0ad6'
-Botões: '#f88323'
-Botões modo escuro: '#232323'
-Fundo: '#000000'
-Texto: '#cfcfcf'
